@@ -1,2 +1,2 @@
 # coursera
-Repository for R Programming MOOC on Coursera
+This is Heather Wright's Repository for R Programming MOOC on Coursera
